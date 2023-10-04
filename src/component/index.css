@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container {
+    /* Display the button and div as a flexbox container */
+    display: flex;
+    /* Justify the content of the flexbox container to the center */
+    justify-content: center;
+    /* Align the items of the flexbox container to the center */
+    align-items: center;
+  }
+  
+  button {
+    /* Increase the size of the button */
+    width: 60px;
+    height: 60px;
+    margin: 0 10px;
+    font-size: 24px;
+  }
+  
